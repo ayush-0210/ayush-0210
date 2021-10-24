@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayush-0210
+- 👋 Hi, I’m Ayush. Username- @ayush-0210
 - 👀 I’m interested in telling actionable meaningful stories with data
 - 🌱 I’m currently learning Advanced Machine Learning, Analytics for Unstructured Data, Optimization and Marketing Analytics
 - 💞️ I’m looking to collaborate on SQL scripts, Data Science problems that have significant business impact and Data Visualization
